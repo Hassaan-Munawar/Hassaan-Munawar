@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassaan</h1>
-<h3 align="center">I am a dedicated web developer with a strong foundation in HTML, CSS, and JavaScript. I specialize in creating visually appealing, responsive, and user-friendly websites. With a passion for clean code and an eye for design, I strive to bring innovative solutions to life, enhancing the user experience and meeting business goals. Let's connect and bring your digital ideas to reality!</h3>
+<h3 align="center">A dedicated web developer with a strong foundation in HTML, CSS, and JavaScript. I am specialize in creating visually appealing, responsive, and user-friendly websites. With a passion for clean code and an eye for design, I strive to bring innovative solutions to life, enhancing the user experience and meeting business goals. Let's connect and bring your digital ideas to reality!</h3>
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **front end**
 
