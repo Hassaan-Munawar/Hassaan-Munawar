@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-hassaan-munawarali-085a6b2b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-hassaan-munawarali-085a6b2b4" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad hassaan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hassaan khatri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61564602512005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hassaan khatri" height="30" width="40" /></a>
 <a href="https://instagram.com/hassaan_munawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassaan_munawar" height="30" width="40" /></a>
 </p>
 
