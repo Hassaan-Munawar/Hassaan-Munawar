@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaan-munawar&label=Profile%20views&color=0e75b6&style=flat" alt="hassaan-munawar" /> </p>
 
-- 🔭 I’m currently working on [L.M.S](https://hlms.netlify.app)
 
 - 🌱 I’m currently learning **Next.js**
 
