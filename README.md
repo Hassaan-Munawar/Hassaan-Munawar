@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [L.M.S](https://hlms.netlify.app)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Front-end**
 
