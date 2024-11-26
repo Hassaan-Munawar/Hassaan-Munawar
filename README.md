@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaan-munawar&label=Profile%20views&color=0e75b6&style=flat" alt="hassaan-munawar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassaan-munawar" alt="hassaan-munawar" /></a> </p>
+
 - 🔭 I’m currently working on [L.M.S](https://hlms.netlify.app)
 
 - 🌱 I’m currently learning **React Native**
