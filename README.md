@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaan-munawar&label=Profile%20views&color=0e75b6&style=flat" alt="hassaan-munawar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassaan-munawar" alt="hassaan-munawar" /></a> </p>
+<img align= "right" alt="Coding" width="500" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - 🔭 I’m currently working on [L.M.S](https://hlms.netlify.app)
 
