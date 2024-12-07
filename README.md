@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [L.M.S](https://hlms.netlify.app)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Back-end**
 
 - 💬 Ask me about **Front-end**
 
