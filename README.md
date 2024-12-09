@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mhassaanmunawarali@gmail.com**
   
-- PortFolio <a href='https://hassaanmunawar.netlify.app'>Link</a>
+- 🔭 Portfolio [Hassaan](https://hassaanmunawar.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
