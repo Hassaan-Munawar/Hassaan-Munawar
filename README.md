@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front-end**
 
-- 📫 How to reach me [email](mailto:mhassaanmunawarali@gmail.com)
+- 📫 How to reach me [email](https://mail.google.com/mail/?view=cm&fs=1&to=mhassaanmunawarali@gmail.com)
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://hassaanmunawar.netlify.app)
 
