@@ -42,17 +42,17 @@ Whether developing single-page applications or complex full-stack systems, I am 
 
 </p>
 <hr>
-<h3 align="left">Trophies 🏆 :</h3>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassaan-munawar" alt="hassaan-munawar" /></a> </p>
 <hr>
-<h3 align="left">💻 Languages :</h3>
+
 <p align='center'> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassaan-munawar&show_icons=true&locale=en&layout=compact" alt="hassaan-munawar" /></p>
 
 <hr>
-<h3 align="left" > Statistics 📊 :</h3>
+
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hassaan-munawar&show_icons=true&locale=en" alt="hassaan-munawar" /></p>
 <hr>
-<h3 align='left'>📈 Contributions :</h3>
+
 <p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan-munawar&" alt="hassaan-munawar" /></p>
 
 
