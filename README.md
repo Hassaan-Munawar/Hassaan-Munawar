@@ -1,4 +1,5 @@
-<img src='./images/Full-stack Developer.png' />
+<img src="./images/Full-stack Developer.png" alt="Full-stack Developer" />
+
 <h1 align="center">Full-stack Developer</h1>
 
 <p>
