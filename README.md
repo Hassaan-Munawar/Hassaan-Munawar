@@ -1,6 +1,6 @@
 <img src="./images/Full-stack Developer.png" alt="Full-stack Developer" />
 
-<h1 align="center">Full-stack Developer</h1>
+<h1 align="center">Mern-stack Developer</h1>
 
 <p>
 As a skilled web developer, I bring expertise in modern JavaScript frameworks and libraries, including React.js and Next.js, to craft high-performance, intuitive web applications. With a strong focus on creating seamless and engaging user experiences, I specialize in building Progressive Web Apps (PWAs) that are fast, reliable, and fully responsive across diverse platforms and devices.
