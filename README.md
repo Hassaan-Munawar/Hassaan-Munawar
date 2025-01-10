@@ -5,7 +5,7 @@
 <p>
 As a skilled Mern stack developer, I bring expertise in crafting high-performance, scalable web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in building seamless and engaging user experiences, leveraging React.js for dynamic frontends and Node.js with Express.js for robust backends. My focus is on delivering responsive, intuitive, and reliable applications tailored to diverse platforms and devices.
 
-With hands-on experience in MongoDB, I design efficient databases and implement secure, real-time data management systems. My expertise also includes creating RESTful APIs, integrating authentication systems, and deploying full-stack solutions that scale effortlessly. Whether developing single-page applications or complex full-stack systems, I thrive in building maintainable, innovative projects that meet client and user needs.
+With hands-on experience in MongoDB, I design efficient databases and implement secure, real-time data management systems. My expertise also includes creating Restful APIs, integrating authentication systems, and deploying full-stack solutions that scale effortlessly. Whether developing single-page applications or complex full-stack systems, I thrive in building maintainable, innovative projects that meet client and user needs.
 
 Driven by a passion for cutting-edge technologies, I combine technical proficiency with attention to detail to produce high-quality, efficient, and future-ready web solutions that exceed expectations.
 
