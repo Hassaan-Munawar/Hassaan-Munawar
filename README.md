@@ -59,7 +59,7 @@ Driven by a passion for cutting-edge technologies, I combine technical proficien
 <hr>
 
 <p align="center"><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaan-munawar&theme=default' /></p>
-<hr>
+<hr> 
 
 <p align="center"><img src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassaan-munawar&theme=default&utcOffset=8' /></p>
 
