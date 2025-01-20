@@ -55,7 +55,7 @@ Driven by a passion for cutting-edge technologies, I combine technical proficien
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hassaan-munawar&show_icons=true&locale=en" alt="hassaan-munawar" /></p>
 <hr>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan-munawar&" alt="hassaan-munawar /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaan-munawar&" alt="hassaan-munawar" /></p>
 <hr>
 
 <p align="center"><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaan-munawar&theme=default' /></p>
