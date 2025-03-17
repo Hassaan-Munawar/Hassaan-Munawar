@@ -13,9 +13,6 @@ Driven by a passion for cutting-edge technologies, I combine technical proficien
 
 <p align='center'><img  alt="Coding" width="500" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"></p>
 
-| Currently Learning | PostgreSQL |
-| ------------------ | --------- |
-
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
