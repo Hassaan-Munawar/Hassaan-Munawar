@@ -19,7 +19,7 @@ Driven by a passion for cutting-edge technologies, I combine technical proficien
 <p align="left">
 	<a href="https://www.linkedin.com/in/hassaan-munawar-085a6b2b4" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	 <img align="right" height="30" src="https://komarev.com/ghpvc/?username=hassaan-munawar&label=Profile%20views&color=0e75b6&style=flat" alt="hassaan-munawar" />
+	 <img align="right" width="200" src="https://komarev.com/ghpvc/?username=hassaan-munawar&label=Profile%20views&color=0e75b6&style=flat" alt="hassaan-munawar" />
 </p>
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
