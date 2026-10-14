@@ -26,7 +26,7 @@ Driven by a passion for cutting-edge technologies, I combine technical proficien
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,cpp,redux" />
-  <img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,figma,firebase" /> <br/>
+  <img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,figma,firebase,supabase" /> <br/>
 	<img src="https://skillicons.dev/icons?i=html,react,express,mongodb,nodejs,materialui" />
 	<img src="https://skillicons.dev/icons?i=postman,vercel,npm,md,ts,appwrite" />
 </p>
